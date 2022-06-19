@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boostserverasync", "boostserverasync.vcproj", "{268DC9DA-0F84-4074-ACA0-38850DFD31D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268DC9DA-0F84-4074-ACA0-38850DFD31D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{268DC9DA-0F84-4074-ACA0-38850DFD31D0}.Debug|Win32.Build.0 = Debug|Win32
+		{268DC9DA-0F84-4074-ACA0-38850DFD31D0}.Release|Win32.ActiveCfg = Release|Win32
+		{268DC9DA-0F84-4074-ACA0-38850DFD31D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

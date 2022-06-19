@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "accept_timeout", "accept_timeout\accept_timeout.vcproj", "{411FCD11-5B20-41AC-BB52-9794FC04F5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411FCD11-5B20-41AC-BB52-9794FC04F5DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{411FCD11-5B20-41AC-BB52-9794FC04F5DD}.Debug|Win32.Build.0 = Debug|Win32
+		{411FCD11-5B20-41AC-BB52-9794FC04F5DD}.Release|Win32.ActiveCfg = Release|Win32
+		{411FCD11-5B20-41AC-BB52-9794FC04F5DD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
